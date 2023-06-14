@@ -1,3 +1,3 @@
 # pop-up
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Pop-up](https://github.com/fullnamemillie/pop-up/blob/main/pop-up-1.jpg)
